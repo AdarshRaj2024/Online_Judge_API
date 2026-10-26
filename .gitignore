@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Execution Engine temporary files
+codes/
+*.exe
+*.cpp
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
